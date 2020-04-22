@@ -1,0 +1,11 @@
+
+@charset "UTF-8";
+
+.top {
+    background-image: url(/top.png);
+    background-size: cover;
+}
+
+.container {
+    margin-bottom: 5;
+}
